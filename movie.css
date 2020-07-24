@@ -1,0 +1,20 @@
+body{
+    padding: 0%;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+.img_poster img{
+    margin: auto;
+    width: 210px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 0ch solid;
+    height: auto;
+
+}
+.details{
+    padding: 10px;
+    margin: auto;
+    
+}
