@@ -3,6 +3,7 @@ body{
     margin: auto;
     background-color: black;
     color: white;
+    font-family:Arial, Helvetica, sans-serif;
 }
 .img_poster img{
     margin: auto;
@@ -17,4 +18,31 @@ body{
     padding: 10px;
     margin: auto;
     
+}
+.movie_input_id{
+    padding: 10px;
+}
+.movie_input_id button{
+    background: #1eb9d7;
+    width: 100px;
+    border-color: #1eb9d7;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+.movie_input_id input{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+}
+.movie_input_id input:hover{
+    border-color: #1166dd;
+}
+
+.movie_input_id a:hover{
+    color: blue;
+
+}
+.movie_input_id span{
+    margin: 5px;
 }
